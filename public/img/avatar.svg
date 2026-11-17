@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Latar belakang gradasi biru -->
+  <rect width="200" height="200" fill="url(#bg-grad)" />
+
+  <!-- Siluet kepala -->
+  <circle cx="100" cy="78" r="36" fill="#1e293b" />
+
+  <!-- Siluet bahu/badan -->
+  <circle cx="100" cy="200" r="70" fill="#1e293b" />
+
+  <!-- Huruf inisial D -->
+  <text x="100" y="79" font-family="Segoe UI, system-ui, sans-serif" font-size="38" font-weight="700" fill="#e2e8f0" text-anchor="middle" dominant-baseline="central">D</text>
+</svg>
